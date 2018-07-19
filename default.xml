@@ -1,1 +1,3 @@
-
+<manifest>
+<remote name="repo_tooling_manifests_middleware_wipro" fetch="https://github.com/MOHAN221100/repo_tooling_manifests_middleware_wipro"/><default revision="refs/heads/master" remote="repo_tooling_manifests_middleware_wipro" />
+</manifest>
