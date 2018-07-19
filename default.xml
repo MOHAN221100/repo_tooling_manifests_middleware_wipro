@@ -1,5 +1,4 @@
 <manifest>
 <remote name="repo_tooling_manifests_middleware_wipro" fetch="https://github.com/MOHAN221100/repo_tooling_manifests_middleware_wipro"/><default revision="refs/heads/master" remote="repo_tooling_manifests_middleware_wipro" />
 <project name="src_main_com_nxp_radiomiddleware_genericosal" remote="repo_tooling_manifests_middleware_wipro" path="genericosal" /> 
-<project name="src_test_external_nxp_radiomiddleware_cunit" remote="repo_tooling_manifests_middleware_wipro" path=“cunit" />
 </manifest>
