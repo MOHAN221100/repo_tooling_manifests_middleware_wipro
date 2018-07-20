@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8" ?>
 <manifest>
 <remote name="repo_tooling_manifests_middleware_wipro" fetch="https://github.com/MOHAN221100/repo_tooling_manifests_middleware_wipro"/><default revision="refs/heads/master" />
 <project name="src_main_com_nxp_radiomiddleware_genericosal"  path="genericosal" /> 
